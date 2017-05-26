@@ -1,6 +1,6 @@
 sudo: false
 
-language: php
+language: shell
 
 branches:
   only:
